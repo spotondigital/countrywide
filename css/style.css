@@ -156,6 +156,14 @@ ol {
 	color: #fff;
 }
 
+
+.project__item video{
+width:100%;
+cursor:pointer;
+object-fit:cover;
+height:250px;
+}
+
 /* buttons */
 
 .primary-btn {
